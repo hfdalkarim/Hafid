@@ -1,0 +1,23 @@
+Hafid	KEYWORD1
+
+BiquadFilter	KEYWORD1
+KalmanFilter	KEYWORD1
+
+initHighPassFilter	KEYWORD2
+processHighPass	KEYWORD2
+
+initExgFilter	KEYWORD2
+processExgFilter	KEYWORD2
+
+initNotchFilter	KEYWORD2
+processNotchFilter	KEYWORD2
+
+initKalmanFilter	KEYWORD2
+processKalmanFilter	KEYWORD2
+
+adcToMilliVolts	KEYWORD2
+
+HAFID_ECG	LITERAL1
+HAFID_EOG	LITERAL1
+HAFID_EEG	LITERAL1
+HAFID_EMG	LITERAL1
